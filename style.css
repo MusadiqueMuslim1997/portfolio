@@ -1,0 +1,27 @@
+.shadow{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+}
+a{
+    text-decoration: none;
+}
+a{
+    color:black
+}
+a:visited{
+    color: #746f6f;
+}
+.shadow:hover{
+    background-color: #e4d5d5;
+}
+p:hover{
+       color: green;
+}
+h3:hover{
+    background-color: #e4d5d5;
+}
+h3{
+    color: blue;
+}
+h2:hover{
+    background-color: #e4d5d5;
+}
